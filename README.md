@@ -83,4 +83,4 @@ film-funding-factors/
 
 ---
 
-**Abeer Radhi** · [LinkedIn](#) · [GitHub](#)
+**Abeer Radhi** · [LinkedIn]([https://www.linkedin.com/in/abeerradhi/]) · [GitHub]([https://github.com/Abeer-Radhi])
