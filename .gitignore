@@ -1,0 +1,15 @@
+# Raw data (large, licensed source files, not for redistribution)
+datasets/raw/
+raw_data.db
+*.tsv.gz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
